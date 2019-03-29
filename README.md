@@ -1,6 +1,6 @@
 # Google HashCode 2019
 
-
+Solution for the Google’s team-based programming competition Hash Code. Online round.
 
 
 ## About the Task
